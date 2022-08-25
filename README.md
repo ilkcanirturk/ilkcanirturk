@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Front-End Software Development.**
 
-- 🌱 I’m currently learning **React Native, HTML5, CSS3, Bootstrap**
+- 🌱 I’m currently learning **React Native, HTML5, CSS3, JavaScript, Bootstrap**
 
 - 💬 Ask me about **Bootstrap, React Native**
 
