@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilkcanirturk&label=Profile%20views&color=0e75b6&style=flat" alt="ilkcanirturk" /> </p>
 
-- 🔭 I’m currently working on **Front-End Software Development.**
+- 🔭 I’m currently working on **Front-End and Mobile Software Development**
 
 - 🌱 I’m currently learning **React Native, HTML5, CSS3, JavaScript, Bootstrap**
 
