@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Front-End and Mobile Software Development**
 
-- 🌱 I’m currently learning **React Native, HTML5, CSS3, JavaScript, Bootstrap**
+- 🌱 I’m currently learning **React.js, React Native, HTML5, CSS3, JavaScript, Bootstrap**
 
-- 💬 Ask me about **Bootstrap, React Native**
+- 💬 Ask me about **React.js, React Native**
 
 - 📫 How to reach me **ilkcan.irturk@outlook.com**
 
