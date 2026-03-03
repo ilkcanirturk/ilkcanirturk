@@ -1,8 +1,5 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/handshake.gif" width="35px"> Hi, I'm İlkcan! 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=220&section=header&text=Nurettin%20İlkcan%20İrtürk&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20MSc%20Student&descAlignY=60&descSize=20" width="100%" />
-</p>
 
 <p align="center">
   <a href="https://www.ilkcan.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
